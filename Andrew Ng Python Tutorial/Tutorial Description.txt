@@ -1,0 +1,2 @@
+Completed all tutorials here: http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-4/
+Followed along with the code, but completely vectorized and simplified wherever I could.
