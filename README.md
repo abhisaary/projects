@@ -1,2 +1,2 @@
-# projects
-A collection of software projects I have worked on
+# Projects
+A collection of machine learning and software engineering projects I have worked on.
